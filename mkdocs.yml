@@ -1,9 +1,9 @@
 site_name: Sherwin-Williams
-site_url: https://www.mkdocs.org/
+site_url: https://github.com/kalimbaig1/standards
 site_description: Project documentation with Markdown.
 site_author: Architecture Team
 
-repo_url: https://github.com/mkdocs/mkdocs/
+repo_url: https://github.com/kalimbaig1/standards
 edit_uri: blob/master/docs/
 
 theme:
